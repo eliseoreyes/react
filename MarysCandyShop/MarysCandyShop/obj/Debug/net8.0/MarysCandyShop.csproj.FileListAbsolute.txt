@@ -1,0 +1,17 @@
+S:\ClassData\Agile Development\31593\300073318\MarysCandyShop\MarysCandyShop\bin\Debug\net8.0\MarysCandyShop.exe
+S:\ClassData\Agile Development\31593\300073318\MarysCandyShop\MarysCandyShop\bin\Debug\net8.0\MarysCandyShop.deps.json
+S:\ClassData\Agile Development\31593\300073318\MarysCandyShop\MarysCandyShop\bin\Debug\net8.0\MarysCandyShop.runtimeconfig.json
+S:\ClassData\Agile Development\31593\300073318\MarysCandyShop\MarysCandyShop\bin\Debug\net8.0\MarysCandyShop.dll
+S:\ClassData\Agile Development\31593\300073318\MarysCandyShop\MarysCandyShop\bin\Debug\net8.0\MarysCandyShop.pdb
+S:\ClassData\Agile Development\31593\300073318\MarysCandyShop\MarysCandyShop\obj\Debug\net8.0\MarysCandyShop.GeneratedMSBuildEditorConfig.editorconfig
+S:\ClassData\Agile Development\31593\300073318\MarysCandyShop\MarysCandyShop\obj\Debug\net8.0\MarysCandyShop.AssemblyInfoInputs.cache
+S:\ClassData\Agile Development\31593\300073318\MarysCandyShop\MarysCandyShop\obj\Debug\net8.0\MarysCandyShop.AssemblyInfo.cs
+S:\ClassData\Agile Development\31593\300073318\MarysCandyShop\MarysCandyShop\obj\Debug\net8.0\MarysCandyShop.csproj.CoreCompileInputs.cache
+S:\ClassData\Agile Development\31593\300073318\MarysCandyShop\MarysCandyShop\obj\Debug\net8.0\MarysCandyShop.dll
+S:\ClassData\Agile Development\31593\300073318\MarysCandyShop\MarysCandyShop\obj\Debug\net8.0\refint\MarysCandyShop.dll
+S:\ClassData\Agile Development\31593\300073318\MarysCandyShop\MarysCandyShop\obj\Debug\net8.0\MarysCandyShop.pdb
+S:\ClassData\Agile Development\31593\300073318\MarysCandyShop\MarysCandyShop\obj\Debug\net8.0\MarysCandyShop.genruntimeconfig.cache
+S:\ClassData\Agile Development\31593\300073318\MarysCandyShop\MarysCandyShop\obj\Debug\net8.0\ref\MarysCandyShop.dll
+S:\ClassData\Agile Development\31593\300073318\MarysCandyShop\MarysCandyShop\bin\Debug\net8.0\Spectre.Console.dll
+S:\ClassData\Agile Development\31593\300073318\MarysCandyShop\MarysCandyShop\obj\Debug\net8.0\MarysCandyShop.csproj.AssemblyReference.cache
+S:\ClassData\Agile Development\31593\300073318\MarysCandyShop\MarysCandyShop\obj\Debug\net8.0\MarysCandyShop.csproj.CopyComplete
